@@ -8,9 +8,9 @@ export default defineConfig({
   // 网站描述 
   description: "-",
   // 构建的文件输出目录
-  outDir: './.vitepress/dist/blog',
+  outDir: './.vitepress/dist',
   // base url 构建的html部署的目录地址
-  base: '/blog',
+  base: '/',
   // 网页头部内容配置
   head: [
     // favicon配置
