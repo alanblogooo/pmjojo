@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.B_utC9AO.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"post-ai/001-aichat.md","filePath":"post-ai/001-aichat.md","lastUpdated":null}'),o={name:"post-ai/001-aichat.md"};function s(c,r,i,n,p,d){return e(),a("div")}const m=t(o,[["render",s]]);export{l as __pageData,m as default};
