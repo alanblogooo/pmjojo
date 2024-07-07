@@ -6,6 +6,11 @@
   --vp-c-brand-active-bg: #265e4b;
 
   
+  /* 设置首页name的渐变颜色 */
+  --vp-home-hero-name-color: transparent;   
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #39eafb, #ff1477);
+
+  
 /* 设置菜单和文字链接的颜色 */
   --vp-c-indigo-1:var(--vp-c-brand);
   --vp-c-indigo-2:var(--vp-c-brand-hover-bg);

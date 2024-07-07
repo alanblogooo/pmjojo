@@ -47,11 +47,3 @@ features:
     linkText: 查看详情
 
 ---
-
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #39eafb, #ff1477);
-}
-</style>
