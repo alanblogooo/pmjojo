@@ -12,7 +12,7 @@
 
 ### 工作产出原型
 
-节选工作中原型作品（设有访问密码，可在面试时当面展示）
+节选工作中原型作品（设有访问密码，可在面试时当面展示，有意向可联系我哟 😁）
 
 [https://works.pmjojo.xyz/yuanxing/中投版支付](https://works.pmjojo.xyz/yuanxing/中投版支付)
 
