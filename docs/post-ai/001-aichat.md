@@ -9,7 +9,6 @@
 - DeepSeek：DeepSeek-V2、DeepSeek-coder-V2
 - Google：Gemini 1.5 Flash、Gemini 1.5 Pro
 - Groq：LLaMa3-3-70B、Mixtral-8x7b、Gemma-7b-it、LLaMa3-3-8B
-- 01.AI 系列模型、智普系列模型
 - Ollama：qwen2:0.5b 【Ollama 基于私有服务器本地化部署的模型，服务器性能有限，只能运行此小模型了😅】
 
 AI Chat 供临时体验。
